@@ -1,2 +1,1 @@
-prova.txt
-
+This Folder Contains dataset used to test HetNetAligner.
